@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "random-seed": "^0.3.0",
+    "shamir": "^0.7.1"
+  }
+}
